@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=yad-no-slider
+Type=X-GNOME-Metatheme
+
+[Settings]
+gtk-theme-name=adw-gtk3-dark

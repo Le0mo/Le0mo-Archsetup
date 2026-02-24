@@ -1,0 +1,20 @@
+@import url("file:///home/le0mo/.local/share/themes/adw-gtk3-dark/gtk-3.0/gtk-dark.css");
+
+/* 2) 彻底“看不见”的滑块（但保留可点击/可拖动） */
+scale slider,
+.scale slider,
+scale > slider,
+scale > slider:hover,
+scale > slider:active {
+  background: transparent;
+  background-image: none;
+  border: none;
+  box-shadow: none;
+
+  /* 仍保留交互命中 */
+  min-width: 1px;
+  min-height: 1px;
+  margin: 0;
+  padding: 0;
+  opacity: 0;
+}

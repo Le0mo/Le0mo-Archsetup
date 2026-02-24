@@ -1,0 +1,794 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.16.1
+#@/tick	2230
+#@/user_id	5b6267af-6f98-4b37-bfcd-c62aa7d6ebbc
+a 	啊	c=5 d=4.64539 t=2230
+an 	按	c=2 d=1.78775 t=2230
+an jian 	按键	c=1 d=0.955997 t=2230
+an ni 	按你	c=1 d=0.852144 t=2230
+an niu 	按钮	c=13 d=5.31586 t=2230
+an se 	暗色	c=2 d=1.89776 t=2230
+an shi da 	安师大	c=3 d=2.98963 t=2230
+an shi da da sheng de 	安师大大声的	c=1 d=0.980199 t=2230
+an zhuang 	安装	c=4 d=2.44549 t=2230
+ba 	吧	c=2 d=1.68836 t=2230
+ba 	把	c=11 d=5.90968 t=2230
+ba shou 	把手	c=1 d=0.965605 t=2230
+ba ta men 	把他们	c=1 d=0.740818 t=2230
+bai 	白	c=2 d=1.93678 t=2230
+bai fen bi 	百分比	c=1 d=0.71177 t=2230
+bai kuai 	百块	c=1 d=0.937067 t=2230
+bai se 	白色	c=1 d=0.904837 t=2230
+ban 	板	c=3 d=1.97578 t=2230
+bang wo 	帮我	c=8 d=5.12633 t=2230
+bang wo wo 	帮我我	c=1 d=0.882497 t=2230
+bao cun wei 	保存为	c=0 d=0.097531 t=2230
+bao cun wei wei zhi 	保存为位置	c=1 d=0.980199 t=2230
+bao cuo 	报错	c=9 d=5.99526 t=2230
+bao han 	包含	c=1 d=0.900325 t=2230
+bao liu 	保留	c=1 d=0.904837 t=2230
+bei 	被	c=5 d=3.22399 t=2230
+bei jing 	背景	c=2 d=1.68742 t=2230
+bei jing mo hu 	背景模糊	c=2 d=1.99005 t=2230
+bei zhu 	备注	c=1 d=0.97531 t=2230
+ben di 	本地	c=1 d=0.985112 t=2230
+ben lai 	本来	c=2 d=1.78917 t=2230
+bi lu ren 	秘鲁人	c=1 d=0.995012 t=2230
+bi zhi 	壁纸	c=2 d=1.90737 t=2230
+bian 	变	c=2 d=1.54259 t=2230
+bian cheng 	变成	c=2 d=1.77275 t=2230
+bian cu 	变粗	c=1 d=0.941765 t=2230
+bian de 	变得	c=1 d=0.937067 t=2230
+bian hua 	变化	c=1 d=0.83527 t=2230
+bian ji 	编辑	c=1 d=1 t=2230
+bian kuang 	边框	c=2 d=1.69197 t=2230
+bie 	别	c=1 d=0.774916 t=2230
+bie shuo 	别说	c=0 d=0.0946485 t=2230
+bing 	并	c=2 d=1.75884 t=2230
+bing fei 	并非	c=1 d=0.965605 t=2230
+bu 	不	c=7 d=3.87625 t=2230
+bu 	布	c=1 d=0.99005 t=2230
+bu bao cuo 	不报错	c=1 d=0.900325 t=2230
+bu bian 	不变	c=1 d=0.729789 t=2230
+bu dao 	不到	c=2 d=1.78272 t=2230
+bu dong le 	不动了	c=1 d=0.869358 t=2230
+bu gai 	不改	c=2 d=1.79169 t=2230
+bu guan 	不管	c=2 d=1.18919 t=2230
+bu hao kan 	不好看	c=10 d=6.73611 t=2230
+bu hui 	不会	c=2 d=1.70731 t=2230
+bu hui xie 	不回血	c=1 d=0.995012 t=2230
+bu ju 	布局	c=1 d=0.918512 t=2230
+bu liao 	不了	c=1 d=1 t=2230
+bu mai 	不卖	c=2 d=1.79069 t=2230
+bu neng 	不能	c=17 d=5.41722 t=2230
+bu rang 	不让	c=1 d=0.927743 t=2230
+bu sheng xiao 	不生效	c=2 d=1.39378 t=2230
+bu shi 	不是	c=4 d=3.05523 t=2230
+bu shi yong 	不使用	c=1 d=0.980199 t=2230
+bu suan 	不算	c=1 d=0.97531 t=2230
+bu wan le 	不玩了	c=1 d=0.995012 t=2230
+bu xi huan 	不喜欢	c=0 d=0.0918512 t=2230
+bu xian shi 	不显示	c=7 d=5.42028 t=2230
+bu xiang yao 	不想要	c=1 d=0.913931 t=2230
+bu xing 	不行	c=7 d=4.41706 t=2230
+bu yao 	不要	c=17 d=8.85409 t=2230
+bu yi yang 	不一样	c=1 d=0.891366 t=2230
+bu yong 	不用	c=1 d=0.882497 t=2230
+bu zai 	不在	c=1 d=0.869358 t=2230
+bu zhi dao 	不知道	c=4 d=3.03789 t=2230
+cai 	才	c=1 d=0.995012 t=2230
+cai neng 	才能	c=1 d=0.960789 t=2230
+cao zuo 	操作	c=1 d=0.891366 t=2230
+ce bian 	侧边	c=1 d=0.740818 t=2230
+ce shi 	测试	c=2 d=1.85607 t=2230
+chang 	长	c=1 d=0.806541 t=2230
+chao ji 	超级	c=1 d=0.985112 t=2230
+che di 	彻底	c=1 d=0.946485 t=2230
+cheng 	成	c=3 d=2.18011 t=2230
+cheng kai 	撑开	c=1 d=0.856415 t=2230
+cheng xu 	程序	c=1 d=0.927743 t=2230
+chi de 	吃的	c=1 d=0.955997 t=2230
+chong qi 	重启	c=1 d=0.909373 t=2230
+chong qi hou 	重启后	c=1 d=0.873716 t=2230
+chu 	出	c=1 d=0.913931 t=2230
+chu xian 	出现	c=5 d=3.60057 t=2230
+chuan dao 	传到	c=1 d=1 t=2229
+chuan liu 	串流	c=2 d=1.99005 t=2230
+chuang jian 	创建	c=2 d=1.66139 t=2230
+chuang kou 	窗口	c=6 d=3.96584 t=2230
+ci pan 	磁盘	c=1 d=0.913931 t=2230
+cong shang 	从上	c=1 d=0.960789 t=2230
+cu dian 	粗点	c=1 d=1 t=2230
+cuan gai 	篡改	c=1 d=0.923116 t=2230
+cun zai 	存在	c=1 d=0.904837 t=2230
+cuo 	错	c=1 d=0.798516 t=2230
+cuo wu 	错误	c=1 d=0.923116 t=2230
+da 	大	c=1 d=0.951229 t=2230
+da 	打	c=2 d=1.35822 t=2230
+da bu kai 	打不开	c=2 d=1.80121 t=2230
+da jin qu 	打进去	c=1 d=0.847894 t=2230
+da kai 	打开	c=14 d=6.754 t=2230
+da lu 	大陆	c=1 d=0.960789 t=2230
+da sheng de 	大声的	c=0 d=0.097531 t=2230
+da xiao 	大小	c=4 d=3.15723 t=2230
+da zi 	打字	c=1 d=0.839457 t=2230
+dai 	带	c=3 d=2.39168 t=2230
+dai dai 	呆呆	c=0 d=0.0995012 t=2230
+dai dai niao 	呆呆鸟	c=1 d=1 t=2230
+dai li 	代理	c=1 d=0.970446 t=2230
+dai ma 	代码	c=38 d=13.7591 t=2230
+dai zai 	待在	c=1 d=0.826959 t=2230
+dan 	但	c=1 d=0.878095 t=2230
+dan bu shi 	但不是	c=1 d=0.980199 t=2230
+dan du 	单独	c=1 d=0.860708 t=2230
+dan shi 	但是	c=18 d=5.63288 t=2230
+dan zhi 	胆汁	c=0 d=0.0985112 t=2230
+dan zhi xian shi 	胆汁显示	c=1 d=0.99005 t=2230
+dang 	当	c=1 d=0.900325 t=2230
+dang qian 	当前	c=1 d=0.814647 t=2230
+dang qian ping mu 	当前屏幕	c=1 d=0.625002 t=2230
+dao 	到	c=11 d=6.14621 t=2230
+dao le 	到了	c=1 d=0.941765 t=2230
+de 	的	c=98 d=19.0423 t=2230
+deng dai 	等待	c=1 d=0.941765 t=2230
+di 	第	c=1 d=0.965605 t=2230
+di er ge 	第二个	c=4 d=2.36525 t=2230
+di fang 	地方	c=4 d=2.55139 t=2230
+di san ge 	第三个	c=2 d=1.54382 t=2230
+di yi ci 	第一次	c=1 d=0.737123 t=2230
+di yi ge 	第一个	c=1 d=0.715338 t=2230
+di zhi 	地址	c=1 d=0.955997 t=2230
+dian 	点	c=1 d=0.927743 t=2230
+dian ji 	点击	c=15 d=7.57225 t=2230
+dian nao 	电脑	c=2 d=1.89319 t=2230
+dian yuan 	电源	c=3 d=2.52343 t=2230
+diao 	掉	c=2 d=1.98012 t=2230
+diao yong 	调用	c=1 d=0.748264 t=2230
+ding wei 	定位	c=2 d=1.8606 t=2230
+dong 	动	c=3 d=2.41864 t=2230
+dong hua 	动画	c=6 d=3.81881 t=2230
+dong mian 	冬眠	c=10 d=8.49389 t=2230
+dong zuo 	动作	c=1 d=0.744532 t=2230
+dou 	都	c=2 d=1.9415 t=2230
+dou an 	都按	c=1 d=0.923116 t=2230
+dou bie shuo 	都别说	c=1 d=0.951229 t=2230
+dou bu gou 	都不够	c=1 d=0.683861 t=2230
+dou hui 	都会	c=2 d=1.93208 t=2230
+dou mei 	都没	c=1 d=0.985112 t=2230
+dou mei you 	都没有	c=1 d=0.909373 t=2230
+dou na lai 	都拿来	c=1 d=0.869358 t=2230
+duan 	短	c=1 d=0.794534 t=2230
+dui die 	堆叠	c=2 d=1.90727 t=2230
+dui qi 	对齐	c=1 d=0.918512 t=2230
+dui ying 	对应	c=1 d=0.970446 t=2230
+dun cuo gan 	顿挫感	c=1 d=0.955997 t=2230
+duo ge 	多个	c=3 d=1.97279 t=2230
+duo xian cheng 	多线程	c=1 d=0.965605 t=2230
+e wai 	额外	c=1 d=0.640824 t=2230
+e xin 	恶心	c=1 d=0.937067 t=2230
+er 	二	c=1 d=0.970446 t=2230
+fa song 	发送	c=1 d=0.878095 t=2230
+fa wo 	发我	c=2 d=1.89942 t=2230
+fan 	烦	c=1 d=0.927743 t=2230
+fan guo lai 	反过来	c=2 d=1.92639 t=2230
+fan qie 	番茄	c=1 d=0.995012 t=2230
+fang 	放	c=1 d=0.923116 t=2230
+fang an 	方案	c=3 d=2.41111 t=2230
+fang da 	放大	c=3 d=2.30667 t=2230
+fang dao 	放到	c=2 d=1.72161 t=2230
+fang fa 	方法	c=1 d=0.878095 t=2230
+fang ge 	放歌	c=1 d=0.99005 t=2230
+fang wen 	访问	c=1 d=0.985112 t=2230
+fang yi qi 	放一起	c=1 d=1 t=2230
+fang zai 	放在	c=6 d=3.37663 t=2230
+fei 	非	c=1 d=0.918512 t=2230
+fen cheng 	分成	c=2 d=1.87423 t=2230
+fen ge fu 	分隔符	c=2 d=1.70514 t=2230
+feng kuang 	疯狂	c=1 d=0.71177 t=2230
+feng xian 	风险	c=1 d=0.932394 t=2230
+fu zhi 	复制	c=2 d=1.97032 t=2230
+gai 	改	c=22 d=7.33333 t=2230
+gai bian 	改变	c=1 d=0.99005 t=2230
+gai cheng 	改成	c=10 d=5.49784 t=2230
+gai de 	改得	c=1 d=0.955997 t=2230
+gai duo shao 	改多少	c=1 d=0.895834 t=2230
+gai le 	改了	c=2 d=1.68708 t=2230
+gai ming 	改名	c=1 d=0.99005 t=2230
+gai wan 	改完	c=1 d=0.932394 t=2230
+gai wei 	改为	c=1 d=0.895834 t=2230
+gai wo de 	改我的	c=1 d=0.995012 t=2230
+gai yi xia 	改一下	c=1 d=0.774916 t=2230
+gai zhe ge 	改这个	c=1 d=0.752014 t=2230
+gao du 	高度	c=2 d=1.81151 t=2230
+gao su 	告诉	c=2 d=1.05384 t=2230
+gao su wo 	告诉我	c=1 d=0.985112 t=2230
+ge 	个	c=4 d=3.06315 t=2230
+ge 	歌	c=4 d=3.2846 t=2230
+ge ci 	歌词	c=19 d=10.6007 t=2230
+ge ming 	歌名	c=2 d=1.82971 t=2230
+ge shi 	格式	c=6 d=3.83216 t=2230
+ge shou 	歌手	c=1 d=0.941765 t=2230
+gei 	给	c=4 d=2.85082 t=2230
+gei wo 	给我	c=11 d=5.31398 t=2230
+gen ju 	根据	c=2 d=1.71245 t=2230
+geng gai 	更改	c=1 d=0.923116 t=2230
+geng jian dan 	更简单	c=1 d=0.995012 t=2230
+geng xin 	更新	c=4 d=3.70552 t=2230
+gong ju 	工具	c=5 d=3.87934 t=2230
+gong ju qu 	工具区	c=1 d=0.895834 t=2230
+gong ju xiang 	工具箱	c=1 d=0.965605 t=2230
+gong neng 	功能	c=3 d=2.06136 t=2230
+gong zuo 	工作	c=1 d=0.97531 t=2230
+gong zuo qu 	工作区	c=5 d=4.11422 t=2230
+gua zai 	挂载	c=1 d=0.99005 t=2230
+guan bi 	关闭	c=9 d=6.14573 t=2230
+guan bi shi 	关闭时	c=1 d=0.970446 t=2230
+guan ji 	关机	c=1 d=1 t=2230
+guan le 	关了	c=1 d=0.946485 t=2230
+guan xi 	关系	c=1 d=0.97531 t=2230
+gui fan 	规范	c=1 d=1 t=2230
+guo 	过	c=1 d=0.955997 t=2230
+guo du 	过渡	c=1 d=0.955997 t=2230
+hai 	还	c=2 d=1.56397 t=2230
+hai he 	还和	c=1 d=0.951229 t=2230
+hai mei 	还没	c=3 d=2.05176 t=2230
+hai shi 	还是	c=12 d=5.24419 t=2230
+hai zi 	孩子	c=1 d=0.767206 t=2230
+hang 	行	c=1 d=0.985112 t=2230
+hao 	号	c=1 d=0.697676 t=2230
+hao 	好	c=4 d=3.63972 t=2230
+hao da 	好大	c=1 d=0.955997 t=2230
+hao de 	好的	c=5 d=2.89583 t=2230
+hao duo 	好多	c=1 d=0.927743 t=2230
+hao hao hao 	好好好	c=1 d=0.941765 t=2230
+hao ka 	好卡	c=1 d=0.852144 t=2230
+hao le 	好了	c=1 d=0.965605 t=2230
+hao miao 	毫秒	c=1 d=1 t=2230
+he 	和	c=16 d=6.6019 t=2230
+hei se 	黑色	c=2 d=1.76641 t=2230
+hen duo 	很多	c=1 d=0.873716 t=2230
+hen hao kan 	很好看	c=1 d=0.951229 t=2230
+heng 	哼	c=1 d=0.960789 t=2230
+heng 	横	c=2 d=1.7871 t=2230
+heng zhe 	横着	c=2 d=1.80988 t=2230
+hou 	后	c=7 d=4.33303 t=2230
+hou 	猴	c=1 d=0.927743 t=2230
+hou tai 	后台	c=1 d=0.995012 t=2230
+hou zhui 	后缀	c=1 d=0.937067 t=2230
+hu lve 	忽略	c=1 d=0.927743 t=2230
+hua 	化	c=1 d=0.913931 t=2230
+hua kuai 	滑块	c=18 d=8.52321 t=2230
+huai kuai 	坏快	c=1 d=0.937067 t=2230
+huan 	换	c=6 d=4.6547 t=2230
+huan cheng 	换成	c=2 d=1.88872 t=2230
+huan ge 	换个	c=1 d=0.960789 t=2230
+huan yi ge 	换一个	c=2 d=1.76301 t=2230
+huan yi xia 	换一下	c=2 d=1.68868 t=2230
+hui 	会	c=4 d=2.79752 t=2230
+hui ba 	会把	c=1 d=0.946485 t=2230
+hui bei 	会被	c=1 d=0.852144 t=2230
+hui fu 	回复	c=5 d=2.86701 t=2230
+hui guan bi 	会关闭	c=1 d=0.891366 t=2230
+huo hu 	火狐	c=1 d=0.970446 t=2230
+huo lang 	活狼	c=1 d=0.960789 t=2230
+ji 	及	c=1 d=0.951229 t=2230
+ji chu shang 	基础上	c=1 d=0.937067 t=2230
+ji ge 	几个	c=1 d=0.99005 t=2230
+ji gou 	机构	c=1 d=0.980199 t=2230
+jia 	加	c=6 d=3.4902 t=2230
+jia wu 	加五	c=1 d=1 t=2230
+jian bian se 	渐变色	c=1 d=0.895834 t=2230
+jian cha 	检查	c=1 d=0.790571 t=2230
+jian cha yi xia 	检查一下	c=1 d=0.88692 t=2230
+jian dan 	简单	c=1 d=0.965605 t=2230
+jian hua 	简化	c=2 d=1.66068 t=2230
+jian kong 	监控	c=1 d=0.995012 t=2230
+jian ming 	键名	c=1 d=0.895834 t=2230
+jian xi 	间隙	c=1 d=0.923116 t=2230
+jiang 	将	c=1 d=0.97531 t=2230
+jiao ben 	脚本	c=6 d=4.34086 t=2230
+jiao dian 	焦点	c=2 d=1.84522 t=2230
+jiao shen me 	叫什么	c=1 d=0.909373 t=2230
+jiao wo 	教我	c=1 d=0.995012 t=2230
+jie 	接	c=1 d=0.937067 t=2230
+jie 	节	c=1 d=0.621885 t=2230
+jie jia ri 	节假日	c=1 d=0.965605 t=2230
+jie jue 	解决	c=4 d=3.25315 t=2230
+jie mian 	界面	c=2 d=1.62669 t=2230
+jie shi 	解释	c=3 d=1.73888 t=2230
+jie shu 	结束	c=2 d=1.98012 t=2230
+jie shu jin cheng 	结束进程	c=1 d=0.904837 t=2230
+jin 	进	c=0 d=0.0985112 t=2230
+jin cheng 	进程	c=5 d=3.6554 t=2230
+jin guan 	尽管	c=1 d=0.985112 t=2230
+jin ru 	进入	c=1 d=0.946485 t=2230
+jin zhi 	紧致	c=1 d=0.970446 t=2230
+jin zhuo mian 	进桌面	c=1 d=0.99005 t=2230
+jing yin 	静音	c=1 d=0.927743 t=2230
+jiu 	就	c=5 d=3.48208 t=2230
+jiu bu 	就不	c=0 d=0.0909373 t=2230
+jiu bu sheng cheng 	就不生成	c=1 d=0.913931 t=2230
+jiu cong 	就从	c=1 d=0.701173 t=2230
+jiu hen hao kan 	就很好看	c=1 d=0.937067 t=2230
+jiu xing 	就行	c=4 d=2.94361 t=2230
+jiu yao 	就要	c=1 d=0.980199 t=2230
+jiu yong zhe ge 	就用这个	c=1 d=1 t=2230
+ju jue 	拒绝	c=2 d=1.75628 t=2230
+ju li 	距离	c=1 d=0.970446 t=2230
+ju ti 	具体	c=1 d=0.951229 t=2230
+ju zhong 	居中	c=2 d=1.86437 t=2230
+ka 	卡	c=1 d=1 t=2230
+ka si 	卡死	c=1 d=0.970446 t=2230
+ka zai 	卡在	c=1 d=0.856415 t=2230
+kai ji 	开机	c=5 d=3.93214 t=2230
+kan 	看	c=3 d=2.13804 t=2230
+kan bu jian 	看不见	c=1 d=0.97531 t=2230
+kan guo 	看过	c=1 d=0.951229 t=2230
+kan kan 	看看	c=4 d=2.21211 t=2230
+kan yi xia 	看一下	c=3 d=2.81464 t=2230
+ke lian 	可怜	c=1 d=0.88692 t=2230
+ke shi 	可是	c=1 d=0.806541 t=2230
+ke yi 	可以	c=5 d=3.79263 t=2230
+ke yi yong 	可以用	c=1 d=0.951229 t=2230
+kong 	空	c=1 d=0.918512 t=2230
+kong jian 	空间	c=1 d=1 t=2230
+kong zhi 	控制	c=4 d=2.72767 t=2230
+ku cun 	库存	c=1 d=0.680451 t=2230
+kuai 	块	c=1 d=1 t=2230
+kuai jie jian 	快捷键	c=1 d=0.995012 t=2230
+kuan 	宽	c=1 d=0.923116 t=2230
+kuan du 	宽度	c=1 d=0.913931 t=2230
+lai 	来	c=2 d=1.79391 t=2230
+lai shuo 	来说	c=1 d=0.99005 t=2230
+lai zi 	来自	c=1 d=0.923116 t=2230
+lan wen 	烂文	c=1 d=1 t=2230
+lan ya 	蓝牙	c=1 d=0.960789 t=2230
+le 	了	c=35 d=10.3072 t=2230
+lei si 	类似	c=3 d=2.26862 t=2230
+li 	里	c=7 d=4.21352 t=2230
+li mian 	里面	c=7 d=3.63582 t=2230
+li zi 	例子	c=3 d=2.5164 t=2230
+lian dao 	连到	c=1 d=0.900325 t=2230
+lian ji 	练级	c=1 d=0.955997 t=2230
+lian jie 	链接	c=6 d=3.88829 t=2230
+lian xu 	连续	c=1 d=0.937067 t=2230
+liang 	量	c=1 d=0.970446 t=2230
+liang du 	亮度	c=2 d=1.14044 t=2230
+liang ge 	两个	c=7 d=4.45701 t=2230
+lie 	列	c=1 d=0.856415 t=2230
+lin shi 	临时	c=1 d=0.965605 t=2230
+ling dong 	灵动	c=3 d=2.20978 t=2230
+ling dong dao 	灵动岛	c=9 d=5.96916 t=2230
+ling yi zhong 	另一种	c=1 d=0.873716 t=2230
+liu lan qi 	浏览器	c=1 d=0.97531 t=2230
+lu jing 	路径	c=1 d=0.970446 t=2230
+luo ji 	逻辑	c=2 d=1.51717 t=2230
+ma 	吗	c=20 d=8.79213 t=2230
+ma fan 	麻烦	c=1 d=0.891366 t=2230
+mai 	卖	c=2 d=1.82387 t=2230
+mai 	麦	c=3 d=2.9362 t=2230
+mai ke feng 	麦克风	c=3 d=2.89299 t=2230
+mei 	没	c=7 d=4.0497 t=2230
+mei ban fa 	没办法	c=1 d=0.960789 t=2230
+mei bi yao 	没必要	c=1 d=0.941765 t=2230
+mei ci 	每次	c=6 d=4.01594 t=2230
+mei fa 	没法	c=1 d=0.814647 t=2230
+mei geng xin 	没更新	c=1 d=0.778801 t=2230
+mei guan bi 	没关闭	c=1 d=0.985112 t=2230
+mei hua 	美化	c=2 d=1.96561 t=2216
+mei xian shi 	没显示	c=2 d=1.78272 t=2230
+mei yong 	没用	c=1 d=0.774916 t=2230
+mei you 	没有	c=11 d=5.36016 t=2230
+mei yun xing 	没运行	c=1 d=0.955997 t=2230
+men 	们	c=1 d=0.865022 t=2230
+mian 	面	c=1 d=0.99005 t=2230
+miao shu 	描述	c=1 d=0.985112 t=2230
+ming ling 	命令	c=1 d=0.980199 t=2230
+ming xian 	明显	c=1 d=0.946485 t=2230
+mo kuai 	模块	c=4 d=3.11754 t=2230
+mo ren 	默认	c=4 d=3.38616 t=2230
+mo zu 	模组	c=1 d=0.965605 t=2230
+mu 	母	c=1 d=0.697676 t=2230
+mu lu 	目录	c=2 d=1.93124 t=2230
+mu qian 	目前	c=1 d=0.88692 t=2230
+na 	那	c=2 d=1.73868 t=2230
+na ge 	哪个	c=2 d=1.83249 t=2230
+na ge 	那个	c=4 d=2.62143 t=2230
+na li 	哪里	c=14 d=5.58545 t=2230
+na me duo 	那么多	c=1 d=0.97531 t=2230
+ne 	呢	c=7 d=4.02805 t=2230
+ne guan bi 	呢关闭	c=1 d=0.822835 t=2230
+nei ping 	内屏	c=1 d=0.694197 t=2230
+nei rong 	内容	c=2 d=1.89942 t=2230
+neng 	能	c=18 d=8.58317 t=2230
+neng ba 	能把	c=1 d=0.701173 t=2230
+neng bu neng 	能不能	c=26 d=8.68712 t=2230
+neng jin 	能进	c=1 d=1 t=2230
+neng shi xian 	能实现	c=1 d=0.778801 t=2230
+neng yong 	能用	c=1 d=0.937067 t=2230
+ni 	你	c=1 d=0.771052 t=2230
+ni de 	你的	c=4 d=2.31447 t=2230
+ni hao 	你好	c=2 d=1.99005 t=2224
+ni lai 	你来	c=1 d=0.88692 t=2230
+ni men 	你们	c=1 d=0.985112 t=2230
+ni na ge 	你哪个	c=1 d=0.946485 t=2230
+ni ting 	你听	c=0 d=0.0980199 t=2230
+ni ting a 	你听啊	c=1 d=0.985112 t=2230
+ni ying gai 	你应该	c=1 d=0.878095 t=2230
+niao 	鸟	c=0 d=0.0995012 t=2230
+nv shi 	女士	c=1 d=0.946485 t=2230
+pai lie 	排列	c=3 d=1.92501 t=2230
+pei zhi 	配置	c=3 d=2.75091 t=2230
+ping jia 	评价	c=3 d=1.94651 t=2230
+ping mu 	屏幕	c=9 d=6.17295 t=2230
+ping mu liang du 	屏幕亮度	c=1 d=0.951229 t=2230
+ping mu shang 	屏幕上	c=1 d=0.873716 t=2230
+qi 	起	c=1 d=0.66365 t=2230
+qi dong 	启动	c=6 d=3.59347 t=2230
+qi dong qi 	启动器	c=1 d=0.980199 t=2230
+qi dong shi 	启动时	c=2 d=1.60643 t=2230
+qi ta 	其他	c=8 d=4.39827 t=2230
+qian hou 	前后	c=1 d=0.995012 t=2230
+qian tang 	前堂	c=1 d=0.970446 t=2230
+qian tao 	嵌套	c=2 d=1.95071 t=2230
+qian tao yi ge 	嵌套一个	c=1 d=0.955997 t=2230
+qiang 	抢	c=1 d=0.88692 t=2230
+qiang jie 	抢劫	c=1 d=0.860708 t=2230
+qiang jing 	强劲	c=1 d=0.856415 t=2230
+qiang zhi 	强制	c=0 d=0.0932394 t=2230
+qiang zhi shan 	强制删	c=1 d=0.937067 t=2230
+qie 	且	c=3 d=1.94361 t=2230
+qin ai de 	亲爱的	c=1 d=0.965605 t=2230
+qing chu 	清除	c=1 d=0.932394 t=2230
+qu 	区	c=3 d=2.76423 t=2230
+qu 	去	c=1 d=0.937067 t=2230
+qu xiao 	取消	c=4 d=2.88761 t=2230
+quan bu 	全部	c=2 d=1.73978 t=2230
+quan ping 	全屏	c=1 d=0.985112 t=2230
+que ren 	确认	c=1 d=0.951229 t=2230
+que shi 	确实	c=1 d=0.965605 t=2230
+ran hou 	然后	c=3 d=2.22731 t=2230
+rang 	让	c=7 d=3.45098 t=2230
+ren wei 	认为	c=1 d=0.932394 t=2230
+ren wu 	任务	c=1 d=0.97531 t=2230
+ri 	日	c=1 d=1 t=2230
+ri chang 	日常	c=1 d=0.786628 t=2230
+ri li 	日历	c=2 d=1.76942 t=2230
+ri qi 	日期	c=4 d=3.30024 t=2230
+rong yu 	冗余	c=1 d=0.767206 t=2230
+ru guo 	如果	c=2 d=1.76535 t=2230
+sa fen 	萨芬	c=0 d=0.0980199 t=2230
+san 	三	c=1 d=0.99005 t=2230
+san da 	三大	c=0 d=0.0980199 t=2230
+san da sa fen 	三大萨芬	c=1 d=0.985112 t=2230
+san jiao xing 	三角形	c=1 d=0.814647 t=2230
+san miao hou 	三秒后	c=1 d=0.882497 t=2230
+shan 	删	c=1 d=1.02563 t=2230
+shan chu 	删除	c=2 d=1.92741 t=2230
+shan chu diao 	删除掉	c=1 d=1 t=2230
+shan diao 	删掉	c=1 d=0.932394 t=2230
+shang 	上	c=5 d=3.76114 t=2230
+shang chuan 	上传	c=1 d=1 t=2210
+shang de 	上的	c=5 d=3.74398 t=2230
+shang mian 	上面	c=2 d=1.64148 t=2230
+shang qu 	上去	c=1 d=0.900325 t=2230
+shang xia 	上下	c=2 d=1.46691 t=2230
+she zhi 	设置	c=3 d=2.21419 t=2230
+shen me 	什么	c=18 d=9.30225 t=2230
+sheng cheng 	生成	c=5 d=4.17465 t=2230
+sheng xiao 	生效	c=6 d=3.62236 t=2230
+sheng yin 	声音	c=5 d=3.72362 t=2230
+shi 	时	c=9 d=5.24314 t=2230
+shi 	是	c=30 d=11.4953 t=2230
+shi bai 	失败	c=3 d=2.60951 t=2230
+shi bie 	识别	c=6 d=4.36443 t=2230
+shi bie cheng 	识别成	c=1 d=0.995012 t=2230
+shi hou 	时候	c=12 d=5.92723 t=2230
+shi jian 	时间	c=2 d=1.6975 t=2230
+shi jian zhou 	时间轴	c=4 d=3.46972 t=2230
+shi jie 	世界	c=1 d=0.995012 t=2230
+shi shi shang 	事实上	c=1 d=0.970446 t=2230
+shi shi xing neng 	实时性能	c=2 d=1.97516 t=2230
+shi wo 	是我	c=1 d=0.873716 t=2230
+shi xian 	实现	c=8 d=4.2615 t=2230
+shou hu 	守护	c=3 d=2.6162 t=2230
+shu biao 	鼠标	c=1 d=0.985112 t=2230
+shu ru 	输入	c=2 d=1.30918 t=2230
+shu zhe 	数着	c=1 d=0.970446 t=2230
+shu zhe 	竖着	c=1 d=0.970446 t=2230
+shu zhi 	竖直	c=5 d=2.25832 t=2230
+shu zi 	数字	c=1 d=0.88692 t=2230
+shua xin 	刷新	c=1 d=0.923116 t=2230
+shun xu 	顺序	c=3 d=2.60028 t=2230
+shuo 	说	c=1 d=0.847894 t=2230
+shuo de 	说的	c=1 d=0.856415 t=2230
+shuo hua 	说话	c=2 d=1.29051 t=2230
+shuo zhong wen 	说中文	c=1 d=0.980199 t=2230
+si nan 	司南	c=1 d=0.995012 t=2230
+sou suo kuang 	搜索框	c=1 d=0.680451 t=2230
+suo 	锁	c=2 d=1.89904 t=2230
+suo ping 	锁屏	c=1 d=0.965605 t=2230
+suo xiao 	缩小	c=1 d=0.865022 t=2230
+suo you 	所有	c=2 d=1.62594 t=2230
+ta 	他	c=8 d=4.18682 t=2230
+ta 	它	c=6 d=3.18545 t=2230
+ta men 	他们	c=1 d=0.763379 t=2230
+ta shi 	他是	c=2 d=1.57467 t=2230
+ta zai 	它在	c=1 d=0.869358 t=2230
+tai chou le 	太丑了	c=1 d=0.951229 t=2230
+tai hao le 	太好了	c=1 d=0.995012 t=2230
+tan chu 	弹出	c=2 d=1.69197 t=2230
+tan chuang 	弹窗	c=0 d=0.0891366 t=2230
+tan chuang guan bi 	弹窗关闭	c=1 d=0.895834 t=2230
+ti 	体	c=1 d=0.904837 t=2230
+ti 	题	c=1 d=0.831104 t=2230
+ti dai 	替代	c=1 d=0.729789 t=2230
+tiao 	条	c=2 d=1.78416 t=2230
+tiao gao 	调高	c=1 d=0.918512 t=2230
+tiao jie 	调节	c=3 d=2.84177 t=2230
+tiao shi 	调试	c=1 d=0.794534 t=2230
+ting bu dong 	听不懂	c=1 d=0.782705 t=2230
+tong shi 	同时	c=2 d=1.79659 t=2230
+tou 	偷	c=1 d=0.895834 t=2230
+tou ming 	透明	c=1 d=0.843665 t=2230
+tu biao 	图标	c=16 d=8.38403 t=2230
+tu pian 	图片	c=7 d=5.8064 t=2230
+tui song 	推送	c=1 d=0.985112 t=2230
+tuo dong 	拖动	c=1 d=0.918512 t=2230
+wa 	哇	c=0 d=0.0951229 t=2230
+wa sai 	哇噻	c=1 d=1 t=2230
+wa si 	瓦斯	c=1 d=0.995012 t=2230
+wa wang luo 	哇网络	c=1 d=0.955997 t=2230
+wai bian ju 	外边距	c=1 d=0.995012 t=2230
+wai jie 	外接	c=2 d=1.85447 t=2230
+wai jie ping 	外接屏	c=1 d=0.985112 t=2230
+wai ke 	外壳	c=1 d=0.918512 t=2230
+wai mian 	外面	c=1 d=0.946485 t=2230
+wai ping 	外屏	c=1 d=0.70822 t=2230
+wan 	完	c=2 d=1.59896 t=2230
+wan 	玩	c=1 d=1 t=2230
+wan mei 	完美	c=1 d=0.99005 t=2230
+wan mei shi jie 	完美世界	c=1 d=1 t=2230
+wan zheng 	完整	c=22 d=9.92581 t=2230
+wang luo 	网络	c=0 d=0.0951229 t=2230
+wang pan 	网盘	c=1 d=0.932394 t=2230
+wang ye 	网页	c=1 d=0.995012 t=2230
+wei 	为	c=5 d=3.22382 t=2230
+wei shen me 	为什么	c=6 d=3.74852 t=2230
+wei ta 	为他	c=0 d=0.0782705 t=2230
+wei tiao 	微调	c=1 d=0.918512 t=2230
+wei zhi 	位置	c=2 d=1.75788 t=2230
+wen jian 	文件	c=7 d=4.06331 t=2230
+wen jian ming 	文件名	c=1 d=0.869358 t=2230
+wen ti 	问题	c=8 d=4.75099 t=2230
+wen zi 	文字	c=2 d=1.68629 t=2230
+wo 	我	c=42 d=12.8951 t=2230
+wo de 	我的	c=21 d=8.50076 t=2230
+wo dou 	我都	c=0 d=0.0918512 t=2230
+wo dou bu xi huan 	我都不喜欢	c=1 d=0.923116 t=2230
+wo kan guo 	我看过	c=7 d=6.30881 t=2230
+wo men 	我们	c=1 d=0.946485 t=2230
+wo shi 	我是	c=7 d=4.8522 t=2230
+wo xian zai 	我现在	c=1 d=0.771052 t=2230
+wo xiang 	我想	c=2 d=1.64068 t=2230
+wo yao chi 	我要吃	c=1 d=0.995012 t=2230
+wu 	无	c=3 d=2.11976 t=2230
+wu fa 	无法	c=1 d=0.985112 t=2230
+xi gua 	西瓜	c=1 d=0.99005 t=2230
+xi ping 	熄屏	c=1 d=0.995012 t=2230
+xi tong 	系统	c=1 d=0.946485 t=2230
+xia 	下	c=4 d=3.18761 t=2230
+xia hua 	下滑	c=1 d=0.97531 t=2230
+xia mian 	下面	c=5 d=3.3774 t=2230
+xia yi bu 	下一步	c=1 d=0.980199 t=2230
+xia zai 	下载	c=9 d=5.9632 t=2230
+xian 	先	c=7 d=3.74549 t=2230
+xian bie huang 	先别慌	c=1 d=0.965605 t=2230
+xian chuang jian 	先创建	c=1 d=0.878095 t=2230
+xian pan duan 	先判断	c=1 d=0.882497 t=2230
+xian shi 	显示	c=7 d=4.43298 t=2230
+xian shi qi 	显示器	c=2 d=1.36023 t=2230
+xian zai 	先在	c=1 d=0.786628 t=2230
+xian zai 	现在	c=5 d=4.22041 t=2230
+xiang 	想	c=3 d=2.43968 t=2230
+xiang ba 	想把	c=1 d=0.915277 t=2230
+xiang ba zhe ge 	想把这个	c=1 d=0.704688 t=2230
+xiang rang ta 	想让他	c=1 d=0.99005 t=2230
+xiang wei ta 	想为他	c=1 d=0.786628 t=2230
+xiang xi 	详细	c=2 d=1.88839 t=2230
+xiang yao 	想要	c=6 d=3.58559 t=2230
+xiang yong 	想用	c=1 d=0.946485 t=2230
+xiang zai 	想在	c=1 d=0.814647 t=2230
+xiao 	小	c=3 d=2.83249 t=2230
+xiao de 	小的	c=1 d=0.882497 t=2230
+xiao gong ju 	小工具	c=2 d=1.71285 t=2230
+xiao guo 	效果	c=3 d=2.22707 t=2230
+xiao ji 	小鸡	c=1 d=0.941765 t=2230
+xiao shi 	消失	c=4 d=2.88314 t=2230
+xie 	写	c=2 d=1.8029 t=2230
+xie cheng 	写成	c=1 d=1 t=2230
+xie ge 	写个	c=1 d=1 t=2230
+xie ru 	写入	c=4 d=3.74403 t=2230
+xie wan 	写完	c=1 d=0.806541 t=2230
+xie yi ge 	写一个	c=3 d=2.61127 t=2230
+xie yi xia 	写一下	c=1 d=0.970446 t=2230
+xie zai 	卸载	c=1 d=0.951229 t=2230
+xin ri zhi 	新日志	c=1 d=0.932394 t=2230
+xin xi 	信息	c=1 d=0.951229 t=2230
+xing ba 	行吧	c=1 d=0.847894 t=2230
+xiu fu 	修复	c=1 d=0.927743 t=2230
+xu ni ji 	虚拟机	c=1 d=1 t=2230
+xu yao 	需要	c=2 d=1.77568 t=2230
+xuan ting 	悬停	c=2 d=1.75194 t=2230
+xuan zhuan 	旋转	c=1 d=0.802519 t=2230
+ya 	呀	c=3 d=2.22341 t=2230
+yan se 	颜色	c=7 d=4.72099 t=2230
+yang sheng qi 	扬声器	c=1 d=0.790571 t=2230
+yang shi 	样式	c=1 d=0.995012 t=2230
+yao 	要	c=6 d=3.88874 t=2230
+yao gai 	要改	c=1 d=0.66365 t=2230
+yao qiu 	要求	c=1 d=0.895834 t=2230
+ye 	也	c=2 d=1.45365 t=2230
+ye bu xing 	也不行	c=2 d=1.60952 t=2230
+ye dian 	夜店	c=2 d=1.87416 t=2230
+ye mei 	也没	c=1 d=0.97531 t=2230
+ye mei yong 	也没用	c=1 d=0.839457 t=2230
+ye mian 	页面	c=1 d=0.960789 t=2230
+yi 	以	c=1 d=0.891366 t=2230
+yi dian 	一点	c=1 d=0.904837 t=2230
+yi ding 	一定	c=1 d=0.965605 t=2230
+yi dong 	移动	c=1 d=0.860708 t=2230
+yi duan shi jian 	一段时间	c=0 d=0.0955997 t=2230
+yi fen 	一份	c=1 d=0.985112 t=2230
+yi ge 	一个	c=13 d=6.04299 t=2230
+yi hou 	以后	c=1 d=0.955997 t=2230
+yi jian 	一键	c=1 d=1 t=2212
+yi kuai 	一块	c=1 d=0.900325 t=2230
+yi lai 	依赖	c=1 d=0.913931 t=2230
+yi qi 	一起	c=2 d=1.76986 t=2230
+yi ran 	依然	c=1 d=0.891366 t=2230
+yi shen xiang xu 	以身相许	c=1 d=0.913931 t=2230
+yi si 	意思	c=2 d=1.82038 t=2230
+yi xia 	一下	c=4 d=2.70656 t=2230
+yi xie 	一些	c=1 d=0.951229 t=2230
+yi yang 	一样	c=1 d=0.99005 t=2230
+yi zhang 	一张	c=1 d=0.995012 t=2230
+yi zhi 	一直	c=2 d=1.6232 t=2230
+yin cang 	隐藏	c=1 d=0.88692 t=2230
+yin liang 	音量	c=3 d=2.50623 t=2230
+yin pin 	音频	c=1 d=0.99005 t=2230
+yin xiang 	音响	c=1 d=0.965605 t=2230
+yin yue 	音乐	c=2 d=1.74468 t=2230
+ying gai 	应该	c=1 d=0.937067 t=2230
+ying pan 	硬盘	c=2 d=1.98511 t=2230
+ying wen 	英文	c=3 d=1.85229 t=2230
+ying yong 	应用	c=9 d=5.35381 t=2230
+yong 	用	c=10 d=4.11482 t=2230
+yong bu liao 	用不了	c=2 d=1.79276 t=2230
+yong de 	用的	c=1 d=0.99005 t=2230
+yong guo 	用过	c=3 d=2.33648 t=2230
+yong yi duan shi jian 	用一段时间	c=1 d=0.960789 t=2230
+yong zhe ge 	用这个	c=1 d=0.763379 t=2230
+you 	有	c=16 d=7.32248 t=2230
+you bian 	右边	c=2 d=1.63379 t=2230
+you ce 	右侧	c=1 d=0.752014 t=2230
+you ge 	有个	c=3 d=2.56207 t=2230
+you hou 	油猴	c=1 d=0.918512 t=2230
+you shang jiao 	右上角	c=2 d=1.78747 t=2230
+you shen me yong 	有什么用	c=1 d=1 t=2221
+you shi hou 	有时候	c=1 d=0.980199 t=2230
+you xi 	游戏	c=2 d=1.90751 t=2230
+you xian 	优先	c=1 d=0.951229 t=2230
+you xian 	有线	c=1 d=0.951229 t=2230
+yu jian 	遇见	c=1 d=0.980199 t=2230
+yuan dai ma 	源代码	c=3 d=2.51552 t=2230
+yuan jiao 	圆角	c=2 d=1.72101 t=2230
+yuan lai 	原来	c=1 d=0.923116 t=2230
+yuan ming 	原名	c=1 d=0.99005 t=2230
+yuan quan 	圆圈	c=4 d=3.33536 t=2230
+yuan xing 	圆形	c=1 d=0.97531 t=2230
+yun suan 	运算	c=1 d=0.759572 t=2230
+yun xing 	运行	c=5 d=3.33135 t=2230
+zai 	再	c=4 d=2.71331 t=2230
+zai 	在	c=25 d=9.44377 t=2230
+zai ba 	再把	c=1 d=0.941765 t=2230
+zai huan 	再换	c=2 d=1.81477 t=2230
+zai xian 	在线	c=0 d=0.0909373 t=2230
+zai xian zhang hao 	在线账号	c=1 d=0.913931 t=2230
+zai yi qi 	在一起	c=1 d=0.774916 t=2230
+zan shi 	暂时	c=1 d=0.99005 t=2230
+zan ting 	暂停	c=1 d=0.798516 t=2230
+zang 	脏	c=1 d=0.927743 t=2230
+zen me 	怎么	c=22 d=11.3668 t=2230
+zen me gai 	怎么改	c=1 d=0.99005 t=2230
+zen me neng 	怎么能	c=1 d=0.895834 t=2230
+zen me zuo de 	怎么做的	c=1 d=0.856415 t=2230
+zeng jian 	增减	c=1 d=0.946485 t=2230
+zhan kai 	展开	c=4 d=3.67145 t=2230
+zhan kai le 	展开了	c=1 d=0.88692 t=2230
+zhan man 	占满	c=1 d=0.995012 t=2230
+zhan shi 	展示	c=1 d=0.955997 t=2230
+zhan tie 	粘贴	c=2 d=1.9605 t=2230
+zhan yong 	占用	c=1 d=0.951229 t=2230
+zhang hao 	账号	c=0 d=0.0909373 t=2230
+zhe 	着	c=2 d=1.59364 t=2230
+zhe 	这	c=2 d=1.50919 t=2230
+zhe duan 	这段	c=1 d=0.946485 t=2230
+zhe ge 	这个	c=31 d=11.4056 t=2230
+zhe ge ji ge 	这个几个	c=1 d=0.904837 t=2230
+zhe ji ge 	这几个	c=1 d=0.970446 t=2230
+zhe li 	这里	c=1 d=0.810584 t=2230
+zhe liang ge 	这两个	c=1 d=0.873716 t=2230
+zhe me 	这么	c=1 d=0.88692 t=2230
+zhe shi 	这是	c=7 d=3.90566 t=2230
+zhe xie 	这些	c=1 d=0.715338 t=2230
+zhe yang 	这样	c=12 d=6.79759 t=2230
+zhe yi duan 	这一段	c=1 d=0.913931 t=2230
+zhe zhong 	这种	c=2 d=1.76885 t=2230
+zhen de 	真的	c=1 d=0.878095 t=2230
+zhen lv 	帧率	c=1 d=0.97531 t=2230
+zhen shi 	真是	c=1 d=0.99005 t=2230
+zheng chang 	正常	c=1 d=0.806541 t=2230
+zheng jiu le 	拯救了	c=1 d=0.980199 t=2230
+zheng ti 	整体	c=2 d=1.44574 t=2230
+zhi 	只	c=4 d=2.91407 t=2230
+zhi chi 	支持	c=2 d=1.97045 t=2230
+zhi ding 	指定	c=1 d=0.740818 t=2230
+zhi gai 	只改	c=1 d=0.960789 t=2230
+zhi gei 	只给	c=0 d=0.0955997 t=2230
+zhi gei wo 	只给我	c=1 d=0.960789 t=2230
+zhi hou 	之后	c=1 d=0.970446 t=2230
+zhi hui fu hao de 	只回复好的	c=1 d=0.786628 t=2230
+zhi jie 	直接	c=1 d=0.937067 t=2230
+zhi liu xia 	只留下	c=1 d=0.83527 t=2230
+zhi neng 	只能	c=2 d=1.40637 t=2230
+zhi yao 	只要	c=2 d=1.68353 t=2230
+zhi yong 	只用	c=1 d=0.878095 t=2230
+zhi yong le 	只用了	c=1 d=0.99005 t=2230
+zhi you 	只有	c=2 d=1.59243 t=2230
+zhong duan 	中断	c=1 d=0.923116 t=2230
+zhong duan 	终端	c=2 d=1.54838 t=2230
+zhong guo 	中国	c=1 d=0.955997 t=2230
+zhong jian 	中间	c=2 d=1.7492 t=2230
+zhong wen 	中文	c=9 d=5.57076 t=2230
+zhou 	周	c=1 d=0.985112 t=2230
+zhu bo 	主播	c=1 d=0.985112 t=2230
+zhu shi 	注释	c=10 d=6.15068 t=2230
+zhuan 	转	c=1 d=0.704688 t=2230
+zhuan dao 	转到	c=1 d=0.722527 t=2230
+zhuan ru 	转入	c=1 d=0.980199 t=2230
+zhuan wen zi 	转文字	c=1 d=0.927743 t=2230
+zhuan yi 	转移	c=2 d=1.62637 t=2230
+zhuang 	装	c=1 d=0.918512 t=2230
+zhun que 	准确	c=1 d=0.970446 t=2230
+zhuo mian 	桌面	c=0 d=0.0985112 t=2230
+zi 	字	c=2 d=1.48142 t=2230
+zi 	自	c=1 d=0.980199 t=2230
+zi dai 	自带	c=1 d=0.985112 t=2230
+zi dong 	自动	c=6 d=4.45268 t=2230
+zi fu 	字符	c=1 d=0.951229 t=2230
+zi ji 	自己	c=2 d=1.73558 t=2230
+zi jian 	自检	c=1 d=0.980199 t=2230
+zi mu 	字幕	c=5 d=4.19418 t=2230
+zi mu 	字母	c=1 d=1 t=2230
+zi qi dong 	自启动	c=2 d=1.81349 t=2230
+zi shang er xia 	自上而下	c=1 d=0.995012 t=2230
+zi ti 	字体	c=1 d=0.932394 t=2230
+zong hui 	总会	c=1 d=0.927743 t=2230
+zu 	组	c=4 d=3.61196 t=2230
+zu he 	组合	c=1 d=0.88692 t=2230
+zui duo 	最多	c=1 d=0.878095 t=2230
+zui shang mian 	最上面	c=2 d=1.46735 t=2230
+zui zuo bian 	最左边	c=1 d=0.748264 t=2230
+zuo 	做	c=6 d=4.23304 t=2230
+zuo 	左	c=1 d=0.71177 t=2230
+zuo bian 	左边	c=3 d=2.49439 t=2230
+zuo ce 	左侧	c=2 d=1.31786 t=2230
+zuo cheng 	做成	c=1 d=0.869358 t=2230
+zuo dao 	做到	c=13 d=5.74781 t=2230
+zuo yi ge 	做一个	c=3 d=2.12478 t=2230
+zuo yong 	作用	c=2 d=1.23818 t=2230
+zuo you hua 	左右滑	c=1 d=0.923116 t=2230
+zuo yuan jiao 	做圆角	c=1 d=0.70822 t=2230

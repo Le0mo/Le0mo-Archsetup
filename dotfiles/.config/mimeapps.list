@@ -1,0 +1,32 @@
+[Default Applications]
+image/png=imv.desktop
+video/webm=mpv.desktop
+application/x-shellscript=code.desktop
+inode/directory=org.gnome.Nautilus.desktop
+image/jpeg=imv.desktop
+image/gif=imv.desktop
+image/webp=imv.desktop
+image/bmp=imv.desktop
+image/tiff=imv.desktop
+video/mp4=mpv.desktop
+video/x-matroska=mpv.desktop
+video/avi=mpv.desktop
+video/quicktime=mpv.desktop
+text/plain=code.desktop
+application/vnd.microsoft.portable-executable=wine.desktop
+text/css=code.desktop
+application/x-zerosize=code.desktop
+application/x-executable=code.desktop
+
+[Added Associations]
+image/png=imv.desktop;
+video/webm=mpv.desktop;
+application/x-shellscript=code.desktop;vim.desktop;
+video/mp4=mpv.desktop;
+text/plain=vim.desktop;code.desktop;
+application/vnd.microsoft.portable-executable=wine.desktop;
+text/css=code.desktop;
+application/x-msdownload=wine.desktop;
+application/x-zerosize=code.desktop;
+image/jpeg=imv-dir.desktop;imv.desktop;
+application/x-executable=code.desktop;
