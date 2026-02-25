@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# 延迟 3 秒，等待 Niri、Waybar 和 MPD 完全启动
-sleep 3
+# 延迟 1 秒，等待 Niri、Waybar 和 MPD 完全启动
+sleep 1
 
 # 你可以把脚本放到 ~/.config/waybar/scripts/island/
 BASE="$HOME/.config/waybar/scripts/island"
