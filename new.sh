@@ -1,2 +1,15 @@
 #!/bin/bash
-for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/"*; do name=$(basename "$item"); if [ -e "$HOME/.local/share/shorin-niri/dotfiles/.config/$name" ]; then rm -rf "$HOME/.local/share/shorin-niri/dotfiles/.config/$name"; fi; ln -s "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/$name" "$HOME/.local/share/shorin-niri/dotfiles/.config/$name"; done && for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/"*; do name=$(basename "$item"); if [ -e "$HOME/.local/share/shorin-niri/dotfiles/.local/bin/$name" ]; then rm -rf "$HOME/.local/share/shorin-niri/dotfiles/.local/bin/$name"; fi; ln -s "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/$name" "$HOME/.local/share/shorin-niri/dotfiles/.local/bin/$name"; done && rm -rf "$HOME/.local/share/shorin-niri/Wallpapers" && ln -s "$HOME/.Github/Le0mo-Archsetup/Wallpapers" "$HOME/.local/share/shorin-niri/Wallpapers"
+for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/"*; do
+    name=$(basename "$item")
+    rm -rf "$HOME/.local/share/shorin-niri/dotfiles/.config/$name"
+    ln -s "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/$name" "$HOME/.local/share/shorin-niri/dotfiles/.config/$name"
+done
+
+for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/"*; do
+    name=$(basename "$item")
+    rm -rf "$HOME/.local/share/shorin-niri/dotfiles/.local/bin/$name"
+    ln -s "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/$name" "$HOME/.local/share/shorin-niri/dotfiles/.local/bin/$name"
+done
+
+rm -rf "$HOME/.local/share/shorin-niri/Wallpapers"
+ln -s "$HOME/.Github/Le0mo-Archsetup/Wallpapers" "$HOME/.local/share/shorin-niri/Wallpapers"
