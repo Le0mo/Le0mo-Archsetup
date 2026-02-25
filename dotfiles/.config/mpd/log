@@ -28,3 +28,5 @@
 2026-02-25T23:45:31 player: played "冬眠-司南.flac"
 2026-02-26T05:11:49 update: removing 冬眠-司南.flac
 2026-02-26T05:16:16 update: added /冬眠-司南.flac
+2026-02-26T06:05:14 exception: Failed to open /home/le0mo/.config/mpd/playlists: No such file or directory
+2026-02-26T06:05:21 player: played "冬眠-司南.flac"
