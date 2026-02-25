@@ -9,3 +9,9 @@ bash <(curl -L shorin.xyz/archsetup)
 sudo pacman -S clang
 niri-blur-toggle
 ```
+克隆仓库
+```bash
+mkdir Github
+cd Github
+git clone https://github.com/Le0mo/Le0mo-Archsetup.git
+```
