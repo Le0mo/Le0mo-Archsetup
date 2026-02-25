@@ -4,5 +4,8 @@
 ```bash
 bash <(curl -L shorin.xyz/archsetup)
 ```
-
-2 确认 TTY自动登录（Y）
+进入niri后
+```bash
+sudo pacman -S clang
+niri-blur-toggle
+```
