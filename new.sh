@@ -5,7 +5,7 @@ for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/"*; do
     ln -s "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/$name" "$HOME/.local/share/shorin-niri/dotfiles/.config/$name"
 done
 
-rm $HOME/.local/share/shorin-niri/dotfiles/.config/waybar-niri-Win11Like
+rm -rf "$HOME/.local/share/shorin-niri/dotfiles/.config/waybar-niri-Win11Like"
 
 for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/"*; do
     name=$(basename "$item")
