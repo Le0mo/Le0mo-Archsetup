@@ -11,5 +11,5 @@ for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/"*; do
     ln -s "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/$name" "$HOME/.local/share/shorin-niri/dotfiles/.local/bin/$name"
 done
 
-rm -rf "$HOME/.local/share/shorin-niri/Wallpapers"
-ln -s "$HOME/.Github/Le0mo-Archsetup/Wallpapers" "$HOME/.local/share/shorin-niri/Wallpapers"
+rm -rf "$HOME/.local/share/shorin-niri/wallpapers"
+ln -s "$HOME/.Github/Le0mo-Archsetup/wallpapers" "$HOME/.local/share/shorin-niri/wallpapers"
