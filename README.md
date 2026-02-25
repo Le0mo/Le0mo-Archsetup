@@ -20,3 +20,7 @@ git clone https://github.com/Le0mo/Le0mo-Archsetup.git
 chmod +x ~/.Github/Le0mo-Archsetup/new.sh
 bash ~/.Github/Le0mo-Archsetup/new.sh
 ```
+# 灵动岛适配
+```bash
+#安装mpd，mpc，ncmpcpp
+```
