@@ -9,7 +9,7 @@ for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/"*; do
     fi
 done
 
-pkill cava || true && pkill waybar || true && waybar -c $HOME/.config/waybar/config.jsonc -s $HOME/.config/waybar/style.css
+
 
 rm -rf "$HOME/.local/share/shorin-niri/dotfiles/.config/waybar-niri-Win11Like"
 
@@ -28,6 +28,8 @@ mv "$HOME/.Github/Le0mo-Archsetup/冬眠-司南.flac" "$HOME/Music/"
 mkdir -p "$HOME/.lyrics"
 
 sudo pacman -S mpd mpc ncmpcpp yad aria2 python-mpd2
+
+pkill cava || true && pkill waybar || true && waybar -c $HOME/.config/waybar/config.jsonc -s $HOME/.config/waybar/style.css
 
 mpd
 ~/.config/waybar/scripts/island/start_island.sh
