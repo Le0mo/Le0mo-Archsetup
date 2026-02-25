@@ -12,7 +12,7 @@ mpc
 mpd
 ncmpcpp
 yad
-
+aria2
 # --- 字体 ---
 
 

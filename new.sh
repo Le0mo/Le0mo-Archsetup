@@ -30,5 +30,5 @@ chmod +x ~/.local/bin/Le0mo-update
 mv "$HOME/.Github/Le0mo-Archsetup/冬眠-司南.flac" "$HOME/Music/"
 mkdir -p "$HOME/.lyrics"
 
-sudo pacman -S mpd mpc ncmpcpp
+sudo pacman -S mpd mpc ncmpcpp yad aria2
 
