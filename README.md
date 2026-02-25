@@ -23,4 +23,5 @@ bash ~/.Github/Le0mo-Archsetup/new.sh
 # 灵动岛适配
 ```bash
 #安装mpd，mpc，ncmpcpp
+sudo pacman -S mpd mpc ncmpcpp
 ```
