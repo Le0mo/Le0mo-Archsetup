@@ -17,8 +17,8 @@ git clone https://github.com/Le0mo/Le0mo-Archsetup.git
 ```
 更换配置
 ```bash
-chmod +x ~/.Github/Le0mo-Archsetup/new.sh
-bash ~/.Github/Le0mo-Archsetup/new.sh
+chmod +x ~/.Github/Le0mo-Archsetup/install.sh
+bash ~/.Github/Le0mo-Archsetup/install.sh
 ```
 # 灵动岛适配
 ```bash
