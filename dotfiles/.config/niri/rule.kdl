@@ -47,7 +47,7 @@ window-rule {
     match title="Volume"
     open-floating true
     // 右上角锚点：离右边 12px，离顶部 12px
-    default-floating-position x=145 y=0 relative-to="top-right"
+    default-floating-position x=190 y=0 relative-to="top-right"
 }
 //blue背景模糊
 window-rule {
