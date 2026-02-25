@@ -11,19 +11,10 @@ niri-blur-toggle
 ```
 克隆仓库
 ```bash
-mkdir ~/.Github
+mkdir -p ~/.Github
 cd ~/.Github
 git clone https://github.com/Le0mo/Le0mo-Archsetup.git
-```
-更换配置
-```bash
-chmod +x ~/.Github/Le0mo-Archsetup/install.sh
-bash ~/.Github/Le0mo-Archsetup/install.sh
-```
-# 灵动岛适配
-```bash
-mpd
-~/.config/waybar/scripts/island/start_island.sh
-nohup ~/.config/waybar/scripts/island/mpd_lyrics_watcher.sh >/dev/null 2>&1 &
-
+cd Le0mo-Archsetup
+chmod +x install.sh
+./install.sh
 ```
