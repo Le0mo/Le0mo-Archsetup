@@ -9,8 +9,6 @@ for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/"*; do
     fi
 done
 
-
-
 rm -rf "$HOME/.local/share/shorin-niri/dotfiles/.config/waybar-niri-Win11Like"
 
 ln -sf "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/"* "$HOME/.local/share/shorin-niri/dotfiles/.local/bin/"
