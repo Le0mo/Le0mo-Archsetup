@@ -338,6 +338,7 @@ spawn-at-startup "niri -p /usr/bin/aria2c --enable-rpc --rpc-listen-all=true --r
 spawn-at-startup "mpd"
 //灵动岛歌词推送的守护进程
 spawn-at-startup "~/.config/waybar/scripts/island/start_island.sh"
+//mpd切歌歌词获取守护进程
 spawn-at-startup "~/.config/waybar/scripts/island/mpd_lyrics_watcher.sh"
 // 桌面壁纸的守护进程
 spawn-at-startup "swww-daemon"
