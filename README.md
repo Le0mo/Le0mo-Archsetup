@@ -17,6 +17,7 @@ git clone https://github.com/Le0mo/Le0mo-Archsetup.git
 ```
 更换配置
 ```bash
-chmod +x ~/Github/Le0mo-Archsetup/new.sh
+find ~/.local/bin -type f -exec chmod +x {} +
+find ~/.config -type f -exec chmod +x {} +
 bash ~/Github/Le0mo-Archsetup/new.sh
 ```
