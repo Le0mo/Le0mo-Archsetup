@@ -18,5 +18,9 @@ ln -s "$HOME/.Github/Le0mo-Archsetup/wallpapers" "$HOME/.local/share/shorin-niri
 
 chmod +x "$HOME/.config/waybar/scripts/island/"*
 
+cd $HOME/.Github/Le0mo-Archsetup/
+cp Le0mo-update ~/.local/bin/
+chmod +x ~/.local/bin/Le0mo-update
+
 sudo pacman -S mpd mpc ncmpcpp
 
