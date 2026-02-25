@@ -20,18 +20,17 @@ ln -s "$HOME/.Github/Le0mo-Archsetup/wallpapers" "$HOME/.local/share/shorin-niri
 
 chmod +x ~/.config/waybar/scripts/island/*.sh
 chmod +x ~/.config/waybar/scripts/island/*.py
-
-cd $HOME/.local/bin/
-chmod +x $HOME/.local/bin/Le0mo-update
+chmod +x ~/.local/bin/Le0mo-update
 
 mv "$HOME/.Github/Le0mo-Archsetup/冬眠-司南.flac" "$HOME/Music/"
 mkdir -p "$HOME/.lyrics"
 
-sudo pacman -S mpd mpc ncmpcpp yad aria2 python-mpd2
+sudo pacman -S --noconfirm mpd mpc ncmpcpp yad aria2 python-mpd2
 
-pkill cava || true && pkill waybar || true && waybar -c $HOME/.config/waybar/config.jsonc -s $HOME/.config/waybar/style.css
+pkill waybar || true
+waybar -c $HOME/.config/waybar/config.jsonc -s $HOME/.config/waybar/style.css &
 
 mpd
-~/.config/waybar/scripts/island/start_island.sh
+~/.config/waybar/scripts/island/start_island.sh &
 nohup ~/.config/waybar/scripts/island/mpd_lyrics_watcher.sh >/dev/null 2>&1 &
 
