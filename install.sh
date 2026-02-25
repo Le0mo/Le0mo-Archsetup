@@ -16,7 +16,8 @@ ln -sf "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/"* "$HOME/.local/share
 rm -rf "$HOME/.local/share/shorin-niri/wallpapers"
 ln -s "$HOME/.Github/Le0mo-Archsetup/wallpapers" "$HOME/.local/share/shorin-niri/wallpapers"
 
-chmod +x "$HOME/.config/waybar/scripts/island/"*
+chmod +x ~/.config/waybar/scripts/island/*.sh
+chmod +x ~/.config/waybar/scripts/island/*.py
 
 cd $HOME/.local/bin/
 chmod +x $HOME/.local/bin/Le0mo-update
