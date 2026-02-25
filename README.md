@@ -24,4 +24,5 @@ bash ~/.Github/Le0mo-Archsetup/new.sh
 ```bash
 #安装mpd，mpc，ncmpcpp
 sudo pacman -S mpd mpc ncmpcpp
+#
 ```
