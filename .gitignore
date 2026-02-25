@@ -1,0 +1,12 @@
+# Local generated theme/config artifacts (do not commit)
+dotfiles/.config/niri/colors.kdl
+dotfiles/.config/waybar/colors.css
+dotfiles/.config/waypaper/config.ini
+dotfiles/.config/wlogout/colors.css
+dotfiles/.config/wlogout/icons/hibernate.png
+dotfiles/.config/wlogout/icons/lock.png
+dotfiles/.config/wlogout/icons/logout.png
+dotfiles/.config/wlogout/icons/reboot.png
+dotfiles/.config/wlogout/icons/recolor.sh
+dotfiles/.config/wlogout/icons/shutdown.png
+dotfiles/.config/wlogout/icons/suspend.png
