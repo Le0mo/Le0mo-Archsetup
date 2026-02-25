@@ -24,5 +24,5 @@ chmod +x $HOME/.local/bin/Le0mo-update
 mv "$HOME/.Github/Le0mo-Archsetup/冬眠-司南.flac" "$HOME/Music/"
 mkdir -p "$HOME/.lyrics"
 
-sudo pacman -S mpd mpc ncmpcpp yad aria2
+sudo pacman -S mpd mpc ncmpcpp yad aria2 python-mpd2
 
