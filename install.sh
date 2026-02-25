@@ -5,8 +5,7 @@ for item in "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/"*; do
         rm -rf "$HOME/.local/share/shorin-niri/dotfiles/.config/$name"
         ln -s "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/$name" "$HOME/.local/share/shorin-niri/dotfiles/.config/$name"
     else
-        rm -rf "$HOME/.config/$name"
-        ln -s "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/$name" "$HOME/.config/$name"
+        ln -sf "$HOME/.Github/Le0mo-Archsetup/dotfiles/.config/$name" "$HOME/.config/$name"
     fi
 done
 
