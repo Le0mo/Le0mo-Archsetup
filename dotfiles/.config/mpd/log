@@ -21,3 +21,8 @@
 2026-02-25T19:53:40 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
 2026-02-25T20:06:53 player: played "冬眠-司南.flac"
 2026-02-25T20:07:18 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-02-25T23:37:51 exception: Failed to open /home/le0mo/.config/mpd/playlists: No such file or directory
+2026-02-25T23:40:39 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-02-25T23:41:01 player: played "我看过-cici_.flac"
+2026-02-25T23:44:46 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-02-25T23:45:31 player: played "冬眠-司南.flac"

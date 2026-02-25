@@ -1,1 +1,2 @@
 #!/bin/bash
+for item in ~/Github/Le0mo-Archsetup/dotfiles/.config/*; do name=$(basename "$item"); if [ -e "~/.local/share/shorin-niri/dotfiles/.config/$name" ]; then rm -rf "~/.local/share/shorin-niri/dotfiles/.config/$name"; fi; ln -s "$(pwd)/~/Github/Le0mo-Archsetup/dotfiles/.config/$name" "~/.local/share/shorin-niri/dotfiles/.config/$name"; done

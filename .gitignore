@@ -10,3 +10,5 @@ dotfiles/.config/wlogout/icons/reboot.png
 dotfiles/.config/wlogout/icons/recolor.sh
 dotfiles/.config/wlogout/icons/shutdown.png
 dotfiles/.config/wlogout/icons/suspend.png
+dotfiles/.config/mpd/log
+dotfiles/.config/mpd/state
