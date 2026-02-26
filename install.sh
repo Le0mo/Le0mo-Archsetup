@@ -25,10 +25,12 @@ mkdir -p "$HOME/.lyrics"
 
 sudo pacman -S --noconfirm mpd mpc ncmpcpp yad aria2 python-mpd2
 
-pkill waybar || true
-waybar -c $HOME/.config/waybar/config.jsonc -s $HOME/.config/waybar/style.css &
+pkill waybar
+
+rm -rf "$HOME/.local/share/shorin-niri/dotfiles/.config/waybar-niri-Win11Like"
+
+waybar >/dev/null 2>&1 &
 
 mpd
 ~/.config/waybar/scripts/island/start_island.sh &
 nohup ~/.config/waybar/scripts/island/mpd_lyrics_watcher.sh >/dev/null 2>&1 &
-
