@@ -16,11 +16,13 @@ ln -sf "$HOME/.Github/Le0mo-Archsetup/dotfiles/.local/bin/"* "$HOME/.local/share
 rm -rf "$HOME/.local/share/shorin-niri/wallpapers"
 ln -s "$HOME/.Github/Le0mo-Archsetup/wallpapers" "$HOME/.local/share/shorin-niri/wallpapers"
 
-chmod +x ~/.config/waybar/scripts/island/*.sh
-chmod +x ~/.config/waybar/scripts/island/*.py
-chmod +x ~/.local/bin/Le0mo-update
+chmod +x ~/.config/waybar/scripts/island/*.sh 2>/dev/null || true
+chmod +x ~/.config/waybar/scripts/island/*.py 2>/dev/null || true
+chmod +x ~/.local/bin/Le0mo-update 2>/dev/null || true
 
-mv "$HOME/.Github/Le0mo-Archsetup/冬眠-司南.flac" "$HOME/Music/"
+if [ -f "$HOME/.Github/Le0mo-Archsetup/冬眠-司南.flac" ]; then
+    mv "$HOME/.Github/Le0mo-Archsetup/冬眠-司南.flac" "$HOME/Music/"
+fi
 mkdir -p "$HOME/.lyrics"
 
 sudo pacman -S --noconfirm mpd mpc ncmpcpp yad aria2 python-mpd2
