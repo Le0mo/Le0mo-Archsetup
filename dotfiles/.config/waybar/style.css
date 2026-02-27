@@ -93,7 +93,6 @@ tooltip label {
 }
 #tools #custom-tools,
 #tools #idle_inhibitor,          /* 闲置抑制器 - 点击后阻止系统进入休眠 */
-#tools #power-profiles-daemon,
 #tools #custom-screenshot,        /* 截图工具 */
 #tools #custom-wfrec,             /* 录屏工具 */
 #tools #custom-wallpapers,        /* 壁纸切换 */
@@ -122,7 +121,6 @@ tooltip label {
 #idle_inhibitor.activated{
     padding: 0px 6px 0px 11px;                            /* 微调内边距，保持视觉平衡 */
 }
-
 /*
  * 系统状态模块组
  * 包括：闲置抑制器（禁止自动息屏）、电池状态、电源配置文件
@@ -148,8 +146,9 @@ tooltip label {
 /* 性能模式的特殊样式 - 更醒目 */
 #power-profiles-daemon.performance {
     color: @error;                                        /* 性能模式下使用错误色（红色）表示高功耗 */
-    font-size: 1.28em;                                    /* 字体更大，约19.2px（原23px的设计） */
-    padding: 0px 10px 0px 8px;                            /* 调整内边距适应更大字体 */
+     padding: 0px 5px;                                /* 统一内边距：左右5px */
+    margin: 5px 3px 5px 6px;                         /* 统一外边距：上下5px，左右0px */
+    font-size: 1.11em;                            /* 调整内边距适应更大字体 */
 }
 
 /* 省电模式的特殊样式 */
