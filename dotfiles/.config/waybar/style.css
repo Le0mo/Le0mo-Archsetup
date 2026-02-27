@@ -129,7 +129,7 @@ tooltip label {
 #battery,                 /* 电池状态 - 显示电量百分比 */
 #power-profiles-daemon {  /* 电源配置文件 - 显示当前电源模式（性能/平衡/省电） */
     background-color: @surface_container_high;            /* 统一背景色 */
-    color: @secondary;                                    /* 默认文字颜色使用二级色 */
+    color: @on_tertiary;                                    /* 默认文字颜色使用二级色 */
 }
 
 /* 电池模块字体略大 */
