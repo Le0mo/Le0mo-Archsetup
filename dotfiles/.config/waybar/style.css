@@ -227,8 +227,8 @@ window#waybar.empty #window {
 #custom-island {
     padding: 0 20px;                            /* 内边距：上下0px，左右5px */
     border-radius: 15px;
-    background: @primary;
-    color: @on_primary;
+    background: @on_primary;
+    color: @primary;
     box-shadow: rgba(0, 0, 0, 0.116) 2px 2px 5px 2px;
     margin: 5px 5px;                           /* 修改：上5px 右5px 下5px 左0px - 移除左边距 */
 }
@@ -237,12 +237,11 @@ window#waybar.empty #window {
     font-weight: bold;
 }
 #custom-island.play{
-    background: @primary;
+    background: @on_primary;
     background-size: 400% 400%;
-    animation: gradient_f 9s cubic-bezier(.72,.39,.21,1) infinite;
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
     font-weight: bold;
-    color: @on_primary ;
+    color: @primary ;
 }
 
 /*
