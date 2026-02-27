@@ -219,10 +219,13 @@
     "drawer": {
       "transition-left-to-right": false,
     },
-    "modules": ["pulseaudio"],
+    "modules": [
+      "pulseaudio",
+      "pulseaudio/slider"
+    ],
   },
   "pulseaudio": {
-  "tooltip-format": "左键：静音\n中键：打开面板",
+  "tooltip-format": "左键：静音\n右键：打开面板",
   "format": "{icon}",
   "format-muted": "",
   "format-icons": {
@@ -232,9 +235,9 @@
     "speaker": ["", "", ""],
     "default": ["", "", ""]
   },
-  "on-click": "~/.config/waybar/scripts/volume.sh",
+  "on-click": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
   "on-click-middle": "pavucontrol --tab=3",
-  "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle",
+  "on-click-right": "pavucontrol --tab=3",
   "on-scroll-up": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%+",
   "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%-"
   },

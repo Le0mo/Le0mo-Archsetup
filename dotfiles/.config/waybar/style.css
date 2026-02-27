@@ -47,8 +47,8 @@ tooltip label {
     font-size: 1.39em;                                 /* 大字体，约20.85px（原25px的设计） */
     padding: 0px 11px;                                 /* 内边距对称 */
     margin: 5px 0px 5px 5px;                           /* 修改：上5px 右0px 下5px 左5px - 移除右边距 */
-    background-color: @on_primary;                        /* 使用主色背景，突出显示 */
-    color: @primary;                                /* 主色背景上的文字颜色 */
+    background-color: @primary;                        /* 使用主色背景，突出显示 */
+    color: @on_primary;                                /* 主色背景上的文字颜色 */
     border-radius: 5px 0px 0px 5px;                    /* 只保留左侧圆角 */
 }
 
@@ -227,8 +227,8 @@ window#waybar.empty #window {
 #custom-island {
     padding: 0 20px;                            /* 内边距：上下0px，左右5px */
     border-radius: 15px;
-    background: @on_primary;
-    color: @primary;
+    background: @primary;
+    color: @on_primary;
     box-shadow: rgba(0, 0, 0, 0.116) 2px 2px 5px 2px;
     margin: 5px 5px;                           /* 修改：上5px 右5px 下5px 左0px - 移除左边距 */
 }
@@ -317,7 +317,7 @@ window#waybar.empty #window {
 #custom-separator.1,     /* 第一组分隔符 */
 #backlight {             /* 背光控制（通常是笔记本内置屏幕） */
     background-color: @surface_container_high;          /* 统一背景色 */
-    color: @secondary;                                   /* 文字颜色使用二级色 */
+    color: @tertiary;                                   /* 文字颜色使用二级色 */
 }
 
 /* 亮度控制按钮组的统一字体大小 */
@@ -392,20 +392,50 @@ window#waybar.empty #window {
 #backlight-slider highlight {
     min-width: 10px;                                      /* 最小宽度10px */
     border-radius: 5px;                                   /* 圆角5px */
-    background-color: @secondary;                         /* 使用二级色表示填充 */
+    background-color: @tertiary;                         /* 使用二级色表示填充 */
 }
 
 /*
  * 音频控制模块
  */
-#pulseaudio {                                             /* 音频图标和静音状态显示 */
-    padding: 0px 12px 0px 0px;                                    /* 内边距：左右10px */
-    font-family: "JetBrainsMono Nerd Font";
-    margin: 5px 0px 5px 0px;                              /* 上下外边距5px */
+#pulseaudio {
+    padding: 0px 5px 0px 5px;                            /* 左内边距10px，右5px */
+    margin: 5px 0px 5px 0px;                              /* 左外边距5px */
     border-radius: 0px 0px 0px 0px;                       /* 无圆角 */
-    background-color: @surface_container_high;            /* 背景色一致 */
-    color: @secondary;                                    /* 文字颜色使用二级色 */
+}
 
+#pulseaudio-slider {
+    padding: 0px 5px 0px 5px;                            /* 左内边距10px，右5px */
+    margin: 5px 0px 5px 0px;                              /* 左外边距5px */
+    border-radius: 0px 0px 0px 0px;                       /* 无圆角 */
+}
+
+#pulseaudio-slider,
+#pulseaudio {
+    background-color: @surface_container_high;
+    color: @tertiary;
+}
+
+#pulseaudio-slider slider {
+    min-height: 0px;
+    min-width: 0px;
+    opacity: 0;
+    background-image: none;
+    box-shadow: none;
+    background: none;
+}
+
+#pulseaudio-slider trough {
+    min-height: 0.56em; /* 10px */
+    min-width: 4.44em; /* 80px */
+    border-radius: 0.28em; /* 5px */
+    background-color: @surface;
+}
+
+#pulseaudio-slider highlight {
+    min-width: 0px;
+    border-radius: 0.28em; /* 5px */
+    background-color: @tertiary;
 }
 
 
@@ -415,7 +445,7 @@ window#waybar.empty #window {
 #network,                                                 /* 网络状态（WiFi/有线） */
 #bluetooth {                                               /* 蓝牙状态 */
     background-color: @surface_container_high;            /* 统一背景色 */
-    color: @secondary;                                    /* 文字颜色使用二级色 */
+    color: @tertiary;                                    /* 文字颜色使用二级色 */
     font-size: 1.22em;                                    /* 字体约18.3px（原22px的设计），适合显示图标 */
 }
 
@@ -444,6 +474,7 @@ window#waybar.empty #window {
     padding: 0px 10px 0px 5px;                            /* 右内边距10px，左5px */
     margin: 5px 5px 5px 0px;                              /* 右外边距5px */
     border-radius: 0px 5px 5px 0px;                       /* 只保留右侧圆角 */
+    color: @tertiary;  
 }
 
 /* 
