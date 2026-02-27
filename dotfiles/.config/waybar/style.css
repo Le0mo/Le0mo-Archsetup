@@ -237,12 +237,12 @@ window#waybar.empty #window {
     font-weight: bold;
 }
 #custom-island.play{
-    background: @on_primary;
+    background: @primary;
     background-size: 400% 400%;
     animation: gradient_f 9s cubic-bezier(.72,.39,.21,1) infinite;
     text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
     font-weight: bold;
-    color: @primary ;
+    color: @on_primary ;
 }
 
 /*
