@@ -122,6 +122,7 @@ tooltip label {
 #idle_inhibitor.activated{
     padding: 0px 6px 0px 11px;                            /* 微调内边距，保持视觉平衡 */
 }
+
 /*
  * 系统状态模块组
  * 包括：闲置抑制器（禁止自动息屏）、电池状态、电源配置文件
