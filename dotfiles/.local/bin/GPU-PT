@@ -1,0 +1,72 @@
+#!/bin/bash
+
+# ==========================================
+# 自动提权部分：如果当前不是 root 权限，自动使用 sudo 重新运行自己
+# ==========================================
+if [ "$EUID" -ne 0 ]; then
+    echo "检测到正在以普通用户运行。"
+    echo "修改内核配置并执行 mkinitcpio 需要管理员权限，正在请求提权..."
+    # 使用 sudo 重新执行当前脚本，并传递所有参数
+    exec sudo "$0" "$@"
+    exit $?
+fi
+
+# ==========================================
+# 此时已经拿到了 root 权限，下面是实际的业务逻辑
+# ==========================================
+VFIO_CONF="/etc/modprobe.d/vfio.conf"
+
+# 检查目标文件是否存在
+if [ ! -f "$VFIO_CONF" ]; then
+    echo "错误：找不到文件 $VFIO_CONF"
+    exit 1
+fi
+
+echo "=================================="
+echo "      GPU 显卡直通切换工具        "
+echo "=================================="
+echo "Y. 打开显卡直通 (将 $VFIO_CONF 内容注释)"
+echo "N. 关闭显卡直通 (将 $VFIO_CONF 取消注释)"
+echo "=================================="
+read -p "请输入当前选择 (Y/N): " choice
+
+case $choice in
+    Y|y)
+        echo "正在注释 $VFIO_CONF ..."
+        sed -i 's/^options/#options/g' "$VFIO_CONF"
+        ;;
+    N|n)
+        echo "正在取消注释 $VFIO_CONF ..."
+        sed -i 's/^#\s*options/options/g' "$VFIO_CONF"
+        ;;
+    *)
+        echo "无效的输入，已退出，未作任何修改。"
+        exit 1
+        ;;
+esac
+
+echo "=================================="
+echo "修改后 $VFIO_CONF 的内容为："
+cat "$VFIO_CONF"
+echo "=================================="
+
+# 运行 mkinitcpio -P
+echo "正在运行 mkinitcpio -P ..."
+mkinitcpio -P
+
+# 提示并执行重启
+if [ $? -eq 0 ]; then
+    echo "mkinitcpio 镜像生成成功！"
+    read -p "是否立即重启电脑以使配置生效？ [Y/N]: " reboot_choice
+    case "$reboot_choice" in
+        [yY][eE][sS]|[yY]) 
+            echo "正在重启系统..."
+            reboot 
+            ;;
+        *)
+            echo "好的，请稍后手动重启电脑。"
+            ;;
+    esac
+else
+    echo "警告：mkinitcpio 执行过程中出现错误，请向上滚动检查日志，暂不重启系统。"
+fi
