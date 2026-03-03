@@ -25,19 +25,19 @@ fi
 echo "=================================="
 echo "      GPU 显卡直通切换工具        "
 echo "=================================="
-echo "Y. 打开显卡直通 (将 $VFIO_CONF 内容注释)"
-echo "N. 关闭显卡直通 (将 $VFIO_CONF 取消注释)"
+echo "Y. 打开显卡直通 (将 $VFIO_CONF 取消注释)"
+echo "N. 关闭显卡直通 (将 $VFIO_CONF 内容注释)"
 echo "=================================="
 read -p "请输入当前选择 (Y/N): " choice
 
 case $choice in
     Y|y)
-        echo "正在注释 $VFIO_CONF ..."
-        sed -i 's/^options/#options/g' "$VFIO_CONF"
-        ;;
-    N|n)
         echo "正在取消注释 $VFIO_CONF ..."
         sed -i 's/^#\s*options/options/g' "$VFIO_CONF"
+        ;;
+    N|n)
+        echo "正在注释 $VFIO_CONF ..."
+        sed -i 's/^options/#options/g' "$VFIO_CONF"
         ;;
     *)
         echo "无效的输入，已退出，未作任何修改。"
